@@ -1,0 +1,30 @@
+.topmenu {
+	display: flex;
+	justify-content: flex-end;
+}
+
+
+
+ul {
+	display: flex;
+	align-items: flex-end;
+	list-style: none;
+
+}
+
+.footer {
+	display: flex;
+	align-items: column
+}
+
+.footer1 {
+	display: flex;
+	justify-content: flex-start;
+}
+
+
+
+.footer2 {
+	display: flex;
+	justify-content: flex-end;
+}
